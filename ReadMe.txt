@@ -1,1 +1,1 @@
-ReadMe.txt
+This is a text file to test git repo
